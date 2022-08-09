@@ -21,26 +21,3 @@ https://www.figma.com/file/qMob2TwQ8ZzKSZ5c9iMoOz/Policify-Designs?node-id=0%3A1
 
 Empathy map, User persona and User flow
 https://www.figma.com/file/blQq9GXT1edWbjqSz846MF/T%26C-and-Privacy-Policy?node-id=0%3A1
-
-
-
-
-## Misturat Akinbani Temitayo (Mysttykinz)
-### Product Design Track
-#### My Design Contributions to Team 75 T & C Generator
-
-
-- I helped my team in suggesting the project name "Policify".
-
-- I drafted a Research Plan
-https://docs.google.com/document/d/1BX3NK3fARzwEbYxxleiZtGkCQKlzNhdsJL3a1WqO2_g/edit?usp=drivesdk
-https://github.com/zuri-training/t_and_c_generator_team75/issues/2#issuecomment-1200129133
-
-- I contributed to the Empathy map, User persona,pain point and idea prioritization matrix
-https://www.figma.com/file/blQq9GXT1edWbjqSz846MF
-
-- Wireframe of Login page
-https://github.com/zuri-training/t_and_c_generator_team75/issues/4#issuecomment-1200125830
-
-- Feedback page for the HiFi
-https://www.figma.com/file/Y4g2XSjrnQnitq4p2mg2Y8
